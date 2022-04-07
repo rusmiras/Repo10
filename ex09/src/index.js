@@ -8,4 +8,4 @@ function myFunction(myObj, checkProp) {
     }
     // Only change code above this line
 }
-    module.exports = myFunction;
+module.exports = myFunction;
